@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\repositories\\studentreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\repositories\\studentreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|c:\\users\\user\\desktop\\c#\\sheenam\\sheenam\\sheenam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF0562A1-9113-4410-AF5F-D0C88B04B21B}|Sheenam\\Sheenam.csproj|solutionrelative:sheenam\\sheenam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Sheenam\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Sheenam\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:36:26.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Sheenam\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Services\\StudentService.cs",
+              "RelativeToolTip": "Sheenam\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:36:06.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Sheenam\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Sheenam\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:29:17.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentReository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Repositories\\StudentReository.cs",
+              "RelativeDocumentMoniker": "Sheenam\\Repositories\\StudentReository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Repositories\\StudentReository.cs",
+              "RelativeToolTip": "Sheenam\\Repositories\\StudentReository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T14:28:38.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\appsettings.json",
+              "RelativeDocumentMoniker": "Sheenam\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\appsettings.json",
+              "RelativeToolTip": "Sheenam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T14:10:56.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Sheenam\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Sheenam\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:53:10.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sheenam",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Sheenam.csproj",
+              "RelativeDocumentMoniker": "Sheenam\\Sheenam.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Sheenam.csproj",
+              "RelativeToolTip": "Sheenam\\Sheenam.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-08T13:37:51.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Sheenam\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Models\\Student.cs",
+              "RelativeToolTip": "Sheenam\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:17:30.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Sheenam\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Sheenam\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:17:15.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Program.cs",
+              "RelativeDocumentMoniker": "Sheenam\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Program.cs",
+              "RelativeToolTip": "Sheenam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:16:10.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Sheenam\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\Sheenam\\Sheenam\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Sheenam\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-08T13:37:56.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
